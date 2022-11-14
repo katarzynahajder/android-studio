@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Piwo</string>
+    <string-array name="beer_spinner">
+        <item>Książęce</item>
+        <item>BUH</item>
+        <item>Źywiec</item>
+        <item>Tyskie</item>
+    </string-array>
+    <string name="button_findBeer">Znajdź Piwo</string>
+    <string name="text_selectedBeer">Piwo</string>
+</resources>
